@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Servlet/SubmitAnswerServlet.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Servlet/LoginServlet.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Servlet/GetQuizDetailServlet.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/adminPage.jsp</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/util/DBUtils.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/quizHistory.jsp</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/quizDetail.jsp</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/quizPage.jsp</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Servlet/TakeAQuizServlet.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/resultPage.jsp</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/addQuestion.jsp</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Quiz_Record/Quiz_RecordDAO.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/homePage.jsp</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Question/QuestionDAO.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Servlet/GetQuizHistoryServlet.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Servlet/GetQuestionServlet.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Quiz_details/Quiz_detailsDAO.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/phanTable.js</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/WEB-INF/indexPage.txt</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Subject/SubjectDTO.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Subject/SubjectDAO.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/web/counterClock.js</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Question/QuestionDTO.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Quiz_Record/Quiz_RecordDTO.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Servlet/FindRecordServlet.java</file>
+            <file>file:/Z:/JavaWebLab/SE141107_QuizOnline/src/java/TanKN/Quiz_details/Quiz_detailsDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
